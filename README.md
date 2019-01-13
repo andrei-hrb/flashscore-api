@@ -6,7 +6,7 @@ This is an API, designed as a micro-service written in [TypeScript](https://www.
 
  1. clone the projects somewhere on your computer using `git clone https://github.com/andrei-hrb/soccer-api.git`
  2. install the dependencies using `npm install`
- 3. compile the TypeScript code and run the project using `npm run serve` 
+ 3. compile the TypeScript code and run the project using `npm run start` 
 
 ## Routes
 | Symbol | Meaning  
